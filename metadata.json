@@ -1,0 +1,6 @@
+{
+  "name": "Puzzle Pop Slide",
+  "description": "A colorful, kid-friendly sliding tile puzzle game with 3D tile effects, image slice picture modes, custom photo support, and high-energy victory celebrations!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
